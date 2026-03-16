@@ -14,7 +14,7 @@ The dataset contains 200 sales transactions including product details, regions, 
 
 The dataset contains the following fields:
 
-Column   -->  	Description
+Column    -->  	Description
 
 Order_ID  -->	Unique order identifier
 
